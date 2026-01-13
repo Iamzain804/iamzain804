@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Muhammad Zain
 
 <div align="center">
-  
+ <!-- Uploading "WhatsApp Image 2026-01-13 at 11.49.27 PM.jpeg"... --> 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Computer+Vision+Specialist;HCIA-AI+Certified+Professional;Deep+Learning+%26+Neural+Networks;Building+Intelligent+Vision+Systems;Always+Learning+%26+Innovating)](https://git.io/typing-svg)
 
 </div>
